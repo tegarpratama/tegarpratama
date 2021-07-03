@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Tegar 👋
 
-<!--
+<p align="center">
+<img align="middle" alt="GIF" src="https://data.whicdn.com/images/306216556/original.gif" />
+</p>
+
+<!-- 
 **tegarpratama/tegarpratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ -->
