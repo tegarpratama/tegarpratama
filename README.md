@@ -1,21 +1,21 @@
-### Hi, I'm Tegar 👋
+<h2 align="center">Hi, I'm Tegar Pratama 👋</h2>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://data.whicdn.com/images/306216556/original.gif" />
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
 </p>
 
-<!-- 
-**tegarpratama/tegarpratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+</p>
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
+- 🌱 I’m currently learning NodeJS & Algorithm
+- 📫 How to reach me: halloegar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
- -->
+<div align="center">
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarpratama&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/tegarpratama)
+
+ [![Tegar Pratama GitHub stats](https://github-readme-stats.vercel.app/api?username=tegarpratama&theme=tokyonight&show_icons=true)](https://github.com/tegarpratama)
+</div>
