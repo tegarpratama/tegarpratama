@@ -5,11 +5,11 @@
 </p>
 
 <p>
-Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+Self-learned and self-motivated Web Developer/Back End Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
 </p>
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning NodeJS & Algorithm
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: halloegar@gmail.com
 
 
